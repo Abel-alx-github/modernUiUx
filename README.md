@@ -1,7 +1,6 @@
-
 <div align="center">
   <br />
-    <a href="" ">
+    <a>
       <img src="https://i.ibb.co/Kqdv8j1/Image-from.png" alt="Project Banner">
     </a>
   <br />
@@ -14,10 +13,7 @@
 
   <h3 align="center">Modern UI/UX website</h3>
 
-#side project using react and tailwindcss
-#side project using react and tailwindcss
-#side project using react and tailwindcss
-#side project using react and tailwindcss
+</div>
 
 ## 📋 <a name="table">Table of Contents</a>
 
@@ -30,10 +26,13 @@
 7. 🚀 [More](#more)
 
 
+
+
 ## <a name="introduction">🤖 Introduction</a>
 
 Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS, exemplifies modern UI/UX principles. Its sleek design, seamless animations, and overall user experience set a high standard, serving as a reference or inspiration for future modern applications or websites in general.
 
+If you're getting started and need assistance or face any bugs, join our active Discord community with over 27k+ members. It's a place where people help each other out.
 
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
@@ -760,7 +759,7 @@ export default Section;
 import Button from "./Button";
 import Heading from "./Heading";
 import Section from "./Section";
-import Tagline from "./Tagline";
+import Tagline from "./TagLine";
 import { roadmap } from "../constants";
 import { check2, grid, loading1 } from "../../public/assets";
 import { Gradient } from "./design/Roadmap";
@@ -841,9 +840,8 @@ export default Roadmap;
 
 ## <a name="links">🔗 Links</a>
 
-- [Live Website](https://aiuiux.web.app/)
+- [Live Website](https://aiuiux.app/)
 
 ## <a name="more">🚀 More</a>
-
 
 
